@@ -13,6 +13,7 @@ This project demonstrates **entry-level network automation fundamentals** suitab
 - Structured Python scripting
 - Safe automation practices (no hardcoded credentials)
 - Clear, recruiter-friendly documentation
+- Professional logging and output capture for troubleshooting
 
 ---
 
